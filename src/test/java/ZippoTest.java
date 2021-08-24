@@ -12,7 +12,6 @@ public class ZippoTest {
                 .when()
                 //link ve aksion islemleri
                 .then()
-
                 //test ve extrakt islemleri
         ;
     }
